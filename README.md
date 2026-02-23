@@ -6,18 +6,16 @@ DeskQuiver is a Windows workspace manager that lets you define groups of apps, b
 
 ## Download
 
-→ **[Latest release](https://github.com/Sajinthan/desk-quiver-releases/releases/latest)**
+→ **[Download DeskQuiver-Setup-0.1.0-beta.exe](https://github.com/Sajinthan/desk-quiver-releases/releases/latest/download/DeskQuiver_0.1.0-beta_x64-setup.exe)**
 
-## Requirements
-
-- Windows 10 or Windows 11 (64-bit)
+> Windows 10 / 11 (64-bit)
 
 ## Installation
 
-1. Download `DeskQuiver-Setup-x.x.x.exe` from the latest release
-2. Run the installer
-3. DeskQuiver starts in the system tray
+1. Download and run the installer above
+2. DeskQuiver starts in the system tray
+3. Use the tray icon or your configured hotkey to open the app
 
-## Releases
+## All Releases
 
 All versions are listed under the [Releases](https://github.com/Sajinthan/desk-quiver-releases/releases) tab.
